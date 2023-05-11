@@ -1,0 +1,21 @@
+// app global css in SCSS form
+$font-1: "Ysabeau", sans-serif;
+
+.q-page {
+  background: linear-gradient(to bottom, #1d4350, #a43931);
+}
+
+.degree {
+  top: -40px;
+}
+
+.skyline {
+  flex: 0 0 100px;
+  background: url(../assets/s1.png);
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.mid {
+  font: $font-1;
+}
